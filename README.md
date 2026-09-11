@@ -18,7 +18,7 @@
 
 イベントデータは `events.json` にJSON配列として配置します。
 
-1件のイベントは次の6項目だけを持ちます。
+1件のイベントは次の7項目を持ちます。
 
 ```json
 [
@@ -28,7 +28,8 @@
     "date": "2026-10-18",
     "eventName": "親子オセロ体験会",
     "venueName": "○○市民センター",
-    "sourceUrl": "https://example.com/event"
+    "sourceUrl": "https://example.com/event",
+    "retrievedDate": "2026-09-12"
   }
 ]
 ```
@@ -43,6 +44,7 @@
 | `eventName` | string | イベント名 |
 | `venueName` | string | 会場名 |
 | `sourceUrl` | string | 情報を確認した取得元URL |
+| `retrievedDate` | string | 取得元の内容を確認し、このイベント情報を取得した日。`YYYY-MM-DD` 固定 |
 
 ## 表示順
 
@@ -59,6 +61,8 @@
 ## 更新方針
 
 - 掲載内容は取得元URLで確認できる情報を基準とします。
+- `retrievedDate` は、そのイベントについて取得元の内容を確認した日を記録します。
+- イベント情報を再確認・更新した場合は、そのイベントの `retrievedDate` も更新します。
 - 終了済みイベントは定期更新時に `events.json` から削除して構いません。
 - アプリ側に秘密鍵やAPIキーを持たせず、公開JSONをHTTPSで取得する前提です。
 - 将来項目追加が必要になった場合も、現行のちゃんりばで本当に必要かを確認してから最小限に拡張します。
