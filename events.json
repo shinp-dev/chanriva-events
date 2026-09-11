@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "prefectureCode": "08",
+    "prefectureName": "茨城県",
+    "date": "2026-11-21",
+    "eventName": "水戸市オセロデー2026",
+    "venueName": "イオンモール水戸内原 1F メインコート",
+    "sourceUrl": "https://www.city.mito.lg.jp/site/othello/121620.html"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-09-19",
+    "eventName": "オセロで脳トレ",
+    "venueName": "よみうりカルチャー荻窪",
+    "sourceUrl": "https://www.ync.ne.jp/ogikubo/kouza/202604-08190010.htm"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-09-26",
+    "eventName": "AIビジネス学科 オープンキャンパス（オセロAI体験）",
+    "venueName": "東京豊島IT医療福祉専門学校",
+    "sourceUrl": "https://www.best-shingaku.net/news/school884/80.html?log=topic_news"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-10-10",
+    "eventName": "東京おもちゃまつり2026（オセロの日）",
+    "venueName": "東京おもちゃ美術館",
+    "sourceUrl": "https://ameblo.jp/sakaguchiothello/entry-12976593259.html"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-10-11",
+    "eventName": "東京おもちゃまつり2026（オセロの日）",
+    "venueName": "東京おもちゃ美術館",
+    "sourceUrl": "https://ameblo.jp/sakaguchiothello/entry-12976593259.html"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-10-11",
+    "eventName": "中島八段のジュニアオセロ教室 説明会",
+    "venueName": "品川区こみゅにてぃぷらざ八潮 2階 交流スペース3",
+    "sourceUrl": "https://seaside.othello.org/renshukai/"
+  },
+  {
+    "prefectureCode": "34",
+    "prefectureName": "広島県",
+    "date": "2026-09-27",
+    "eventName": "第1回オセロ大会",
+    "venueName": "広市民センター 4階会議室",
+    "sourceUrl": "https://kuresc.net/volinfo/event.php"
+  }
+]
