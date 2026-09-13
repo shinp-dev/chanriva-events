@@ -11,6 +11,15 @@
   {
     "prefectureCode": "13",
     "prefectureName": "東京都",
+    "date": "2026-09-16",
+    "eventName": "みんなであそぼう「大型オセロであそぼう」",
+    "venueName": "東堀切児童館",
+    "sourceUrl": "https://www.city.katsushika.lg.jp/event/1000114/1000806/1043170.html",
+    "retrievedDate": "2026-09-14"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
     "date": "2026-09-19",
     "eventName": "オセロで脳トレ",
     "venueName": "よみうりカルチャー荻窪",
@@ -54,12 +63,30 @@
     "retrievedDate": "2026-09-12"
   },
   {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-09-23",
+    "eventName": "新潟市児童センター 万代あそびフェスティバル",
+    "venueName": "新潟市児童センター",
+    "sourceUrl": "https://www.city.niigata.lg.jp/chuo/shisetsu/kosodate/sonotajido/jido_center/bandai_asobifes.html",
+    "retrievedDate": "2026-09-14"
+  },
+  {
+    "prefectureCode": "27",
+    "prefectureName": "大阪府",
+    "date": "2026-10-17",
+    "eventName": "オセロをしよう",
+    "venueName": "桂青少年会館",
+    "sourceUrl": "https://atsumare-yaokko.jp/news/32529/",
+    "retrievedDate": "2026-09-14"
+  },
+  {
     "prefectureCode": "34",
     "prefectureName": "広島県",
     "date": "2026-09-27",
     "eventName": "第1回オセロ大会",
     "venueName": "広市民センター 4階会議室",
-    "sourceUrl": "https://kuresc.net/volinfo/event.php",
-    "retrievedDate": "2026-09-12"
+    "sourceUrl": "https://www.city.kure.lg.jp/soshiki/4/tiikiooen-hironoibasyo.html",
+    "retrievedDate": "2026-09-14"
   }
 ]
