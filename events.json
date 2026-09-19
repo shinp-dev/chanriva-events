@@ -9,6 +9,15 @@
     "retrievedDate": "2026-09-12"
   },
   {
+    "prefectureCode": "08",
+    "prefectureName": "茨城県",
+    "date": "2026-11-29",
+    "eventName": "水戸まちなか謎巡り「君色オセロ」（4/29〜11/29開催）",
+    "venueName": "水戸市中心市街地",
+    "sourceUrl": "https://www.mikami-web.co.jp/information/3410.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
     "prefectureCode": "13",
     "prefectureName": "東京都",
     "date": "2026-09-16",
@@ -48,6 +57,15 @@
     "prefectureCode": "13",
     "prefectureName": "東京都",
     "date": "2026-10-11",
+    "eventName": "中島八段のジュニアオセロ教室 説明会",
+    "venueName": "品川区こみゅにてぃぷらざ八潮 2階 交流スペース3",
+    "sourceUrl": "https://seaside.othello.org/renshukai/",
+    "retrievedDate": "2026-09-12"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-10-11",
     "eventName": "東京おもちゃまつり2026（オセロの日）",
     "venueName": "東京おもちゃ美術館",
     "sourceUrl": "https://ameblo.jp/sakaguchiothello/entry-12976593259.html",
@@ -56,11 +74,11 @@
   {
     "prefectureCode": "13",
     "prefectureName": "東京都",
-    "date": "2026-10-11",
-    "eventName": "中島八段のジュニアオセロ教室 説明会",
-    "venueName": "品川区こみゅにてぃぷらざ八潮 2階 交流スペース3",
-    "sourceUrl": "https://seaside.othello.org/renshukai/",
-    "retrievedDate": "2026-09-12"
+    "date": "2026-10-18",
+    "eventName": "立教大学ホームカミングデー「オセロが映し出す、人間とAIの未来」",
+    "venueName": "立教大学 池袋キャンパス マキムホール3階 M302教室",
+    "sourceUrl": "https://koyu.rikkyo.ac.jp/homecoming/event/otherprograms",
+    "retrievedDate": "2026-09-19"
   },
   {
     "prefectureCode": "15",
@@ -72,6 +90,24 @@
     "retrievedDate": "2026-09-14"
   },
   {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-10-31",
+    "eventName": "長岡高専 学園祭（リバーシ等のプログラミング作品体験）",
+    "venueName": "長岡工業高等専門学校",
+    "sourceUrl": "https://www.nagaoka-ct.ac.jp/ec/2026/news2026_03.shtml",
+    "retrievedDate": "2026-09-19"
+  },
+  {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-11-01",
+    "eventName": "長岡高専 学園祭（リバーシ等のプログラミング作品体験）",
+    "venueName": "長岡工業高等専門学校",
+    "sourceUrl": "https://www.nagaoka-ct.ac.jp/ec/2026/news2026_03.shtml",
+    "retrievedDate": "2026-09-19"
+  },
+  {
     "prefectureCode": "27",
     "prefectureName": "大阪府",
     "date": "2026-10-17",
@@ -81,6 +117,15 @@
     "retrievedDate": "2026-09-14"
   },
   {
+    "prefectureCode": "33",
+    "prefectureName": "岡山県",
+    "date": "2026-10-04",
+    "eventName": "人権映画会「小さなバイキング ビッケ」（巨大オセロ遊び）",
+    "venueName": "真庭市立中央図書館",
+    "sourceUrl": "https://www.city.maniwa.lg.jp/soshiki/53/122036.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
     "prefectureCode": "34",
     "prefectureName": "広島県",
     "date": "2026-09-27",
@@ -88,5 +133,50 @@
     "venueName": "広市民センター 4階会議室",
     "sourceUrl": "https://www.city.kure.lg.jp/soshiki/4/tiikiooen-hironoibasyo.html",
     "retrievedDate": "2026-09-14"
+  },
+  {
+    "prefectureCode": "39",
+    "prefectureName": "高知県",
+    "date": "2026-09-19",
+    "eventName": "食べて 遊んで宵(よい)夜市",
+    "venueName": "高知 蔦屋書店 テラス",
+    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
+    "prefectureCode": "39",
+    "prefectureName": "高知県",
+    "date": "2026-09-20",
+    "eventName": "食べて 遊んで宵(よい)夜市",
+    "venueName": "高知 蔦屋書店 テラス",
+    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
+    "prefectureCode": "39",
+    "prefectureName": "高知県",
+    "date": "2026-09-21",
+    "eventName": "食べて 遊んで宵(よい)夜市",
+    "venueName": "高知 蔦屋書店 テラス",
+    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
+    "prefectureCode": "39",
+    "prefectureName": "高知県",
+    "date": "2026-09-22",
+    "eventName": "食べて 遊んで宵(よい)夜市",
+    "venueName": "高知 蔦屋書店 テラス",
+    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
+    "retrievedDate": "2026-09-19"
+  },
+  {
+    "prefectureCode": "40",
+    "prefectureName": "福岡県",
+    "date": "2026-11-22",
+    "eventName": "食レク健康教室（人間オセロ）",
+    "venueName": "メイトム宗像",
+    "sourceUrl": "https://www.city.munakata.lg.jp/kiji00310262/index.html",
+    "retrievedDate": "2026-09-19"
   }
 ]
