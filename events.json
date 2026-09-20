@@ -18,6 +18,15 @@
     "retrievedDate": "2026-09-19"
   },
   {
+    "prefectureCode": "11",
+    "prefectureName": "埼玉県",
+    "date": "2026-09-26",
+    "eventName": "あつまれ！放課後子どもクラブ「子どものあそび場」（リバーシ）",
+    "venueName": "吉川市民交流センターおあしす",
+    "sourceUrl": "https://websvr157-205-192-51.alpha-prm.jp/oasis/news/",
+    "retrievedDate": "2026-09-20"
+  },
+  {
     "prefectureCode": "13",
     "prefectureName": "東京都",
     "date": "2026-09-16",
@@ -126,6 +135,15 @@
     "retrievedDate": "2026-09-19"
   },
   {
+    "prefectureCode": "33",
+    "prefectureName": "岡山県",
+    "date": "2026-11-22",
+    "eventName": "THROW THE SPARK 2026 岡山決勝（リバーシ大会）",
+    "venueName": "能楽堂ホール",
+    "sourceUrl": "https://throwthesaprk26.com/",
+    "retrievedDate": "2026-09-20"
+  },
+  {
     "prefectureCode": "34",
     "prefectureName": "広島県",
     "date": "2026-09-27",
@@ -133,6 +151,24 @@
     "venueName": "広市民センター 4階会議室",
     "sourceUrl": "https://www.city.kure.lg.jp/soshiki/4/tiikiooen-hironoibasyo.html",
     "retrievedDate": "2026-09-14"
+  },
+  {
+    "prefectureCode": "34",
+    "prefectureName": "広島県",
+    "date": "2026-10-10",
+    "eventName": "THROW THE SPARK 2026 福山予選（リバーシ）",
+    "venueName": "iti SETOUCHI",
+    "sourceUrl": "https://throwthesaprk26.com/",
+    "retrievedDate": "2026-09-20"
+  },
+  {
+    "prefectureCode": "34",
+    "prefectureName": "広島県",
+    "date": "2026-10-11",
+    "eventName": "THROW THE SPARK 2026 福山予選（リバーシ）",
+    "venueName": "iti SETOUCHI",
+    "sourceUrl": "https://throwthesaprk26.com/",
+    "retrievedDate": "2026-09-20"
   },
   {
     "prefectureCode": "39",
