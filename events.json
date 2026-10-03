@@ -18,40 +18,13 @@
     "retrievedDate": "2026-09-19"
   },
   {
-    "prefectureCode": "11",
-    "prefectureName": "埼玉県",
-    "date": "2026-09-26",
-    "eventName": "あつまれ！放課後子どもクラブ「子どものあそび場」（リバーシ）",
-    "venueName": "吉川市民交流センターおあしす",
-    "sourceUrl": "https://websvr157-205-192-51.alpha-prm.jp/oasis/news/",
-    "retrievedDate": "2026-09-20"
-  },
-  {
-    "prefectureCode": "13",
-    "prefectureName": "東京都",
-    "date": "2026-09-16",
-    "eventName": "みんなであそぼう「大型オセロであそぼう」",
-    "venueName": "東堀切児童館",
-    "sourceUrl": "https://www.city.katsushika.lg.jp/event/1000114/1000806/1043170.html",
-    "retrievedDate": "2026-09-14"
-  },
-  {
-    "prefectureCode": "13",
-    "prefectureName": "東京都",
-    "date": "2026-09-19",
-    "eventName": "オセロで脳トレ",
-    "venueName": "よみうりカルチャー荻窪",
-    "sourceUrl": "https://www.ync.ne.jp/ogikubo/kouza/202604-08190010.htm",
-    "retrievedDate": "2026-09-12"
-  },
-  {
-    "prefectureCode": "13",
-    "prefectureName": "東京都",
-    "date": "2026-09-26",
-    "eventName": "AIビジネス学科 オープンキャンパス（オセロAI体験）",
-    "venueName": "東京豊島IT医療福祉専門学校",
-    "sourceUrl": "https://www.best-shingaku.net/news/school884/80.html?log=topic_news",
-    "retrievedDate": "2026-09-12"
+    "prefectureCode": "12",
+    "prefectureName": "千葉県",
+    "date": "2026-11-08",
+    "eventName": "第19回わんぱくこども祭り（オセロひっくり返し競争）",
+    "venueName": "千葉県立手賀の丘青少年自然の家",
+    "sourceUrl": "https://www.kashiwa-soudanin.org/info/2026/09/12/%E2%98%86%E7%AC%AC%EF%BC%91%EF%BC%99%E5%9B%9E%E3%82%8F%E3%82%93%E3%81%B1%E3%81%8F%E3%81%93%E3%81%A9%E3%82%82%E7%A5%AD%E3%82%8A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E2%98%86",
+    "retrievedDate": "2026-10-03"
   },
   {
     "prefectureCode": "13",
@@ -90,13 +63,13 @@
     "retrievedDate": "2026-09-19"
   },
   {
-    "prefectureCode": "15",
-    "prefectureName": "新潟県",
-    "date": "2026-09-23",
-    "eventName": "新潟市児童センター 万代あそびフェスティバル",
-    "venueName": "新潟市児童センター",
-    "sourceUrl": "https://www.city.niigata.lg.jp/chuo/shisetsu/kosodate/sonotajido/jido_center/bandai_asobifes.html",
-    "retrievedDate": "2026-09-14"
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-11-08",
+    "eventName": "親子で遊ぼ ボードゲーム（オセロなど）",
+    "venueName": "府中市市民活動センター プラッツ 6階",
+    "sourceUrl": "https://fuchu-planet.jp/organizations/296/activities/2002",
+    "retrievedDate": "2026-10-03"
   },
   {
     "prefectureCode": "15",
@@ -146,15 +119,6 @@
   {
     "prefectureCode": "34",
     "prefectureName": "広島県",
-    "date": "2026-09-27",
-    "eventName": "第1回オセロ大会",
-    "venueName": "広市民センター 4階会議室",
-    "sourceUrl": "https://www.city.kure.lg.jp/soshiki/4/tiikiooen-hironoibasyo.html",
-    "retrievedDate": "2026-09-14"
-  },
-  {
-    "prefectureCode": "34",
-    "prefectureName": "広島県",
     "date": "2026-10-10",
     "eventName": "THROW THE SPARK 2026 福山予選（リバーシ）",
     "venueName": "iti SETOUCHI",
@@ -169,42 +133,6 @@
     "venueName": "iti SETOUCHI",
     "sourceUrl": "https://throwthesaprk26.com/",
     "retrievedDate": "2026-09-20"
-  },
-  {
-    "prefectureCode": "39",
-    "prefectureName": "高知県",
-    "date": "2026-09-19",
-    "eventName": "食べて 遊んで宵(よい)夜市",
-    "venueName": "高知 蔦屋書店 テラス",
-    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
-    "retrievedDate": "2026-09-19"
-  },
-  {
-    "prefectureCode": "39",
-    "prefectureName": "高知県",
-    "date": "2026-09-20",
-    "eventName": "食べて 遊んで宵(よい)夜市",
-    "venueName": "高知 蔦屋書店 テラス",
-    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
-    "retrievedDate": "2026-09-19"
-  },
-  {
-    "prefectureCode": "39",
-    "prefectureName": "高知県",
-    "date": "2026-09-21",
-    "eventName": "食べて 遊んで宵(よい)夜市",
-    "venueName": "高知 蔦屋書店 テラス",
-    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
-    "retrievedDate": "2026-09-19"
-  },
-  {
-    "prefectureCode": "39",
-    "prefectureName": "高知県",
-    "date": "2026-09-22",
-    "eventName": "食べて 遊んで宵(よい)夜市",
-    "venueName": "高知 蔦屋書店 テラス",
-    "sourceUrl": "https://store.tsite.jp/kochi/event/shop/56565-1530170901.html",
-    "retrievedDate": "2026-09-19"
   },
   {
     "prefectureCode": "40",
