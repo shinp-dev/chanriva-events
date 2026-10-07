@@ -6,7 +6,7 @@
     "eventName": "水戸市オセロデー2026",
     "venueName": "イオンモール水戸内原 1F メインコート",
     "sourceUrl": "https://www.city.mito.lg.jp/site/othello/121620.html",
-    "retrievedDate": "2026-09-12"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "08",
@@ -15,7 +15,7 @@
     "eventName": "水戸まちなか謎巡り「君色オセロ」（4/29〜11/29開催）",
     "venueName": "水戸市中心市街地",
     "sourceUrl": "https://www.mikami-web.co.jp/information/3410.html",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "12",
@@ -24,7 +24,7 @@
     "eventName": "第19回わんぱくこども祭り（オセロひっくり返し競争）",
     "venueName": "千葉県立手賀の丘青少年自然の家",
     "sourceUrl": "https://www.kashiwa-soudanin.org/info/2026/09/12/%E2%98%86%E7%AC%AC%EF%BC%91%EF%BC%99%E5%9B%9E%E3%82%8F%E3%82%93%E3%81%B1%E3%81%8F%E3%81%93%E3%81%A9%E3%82%82%E7%A5%AD%E3%82%8A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E2%98%86",
-    "retrievedDate": "2026-10-03"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "13",
@@ -33,7 +33,7 @@
     "eventName": "東京おもちゃまつり2026（オセロの日）",
     "venueName": "東京おもちゃ美術館",
     "sourceUrl": "https://ameblo.jp/sakaguchiothello/entry-12976593259.html",
-    "retrievedDate": "2026-09-12"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "13",
@@ -42,7 +42,7 @@
     "eventName": "中島八段のジュニアオセロ教室 説明会",
     "venueName": "品川区こみゅにてぃぷらざ八潮 2階 交流スペース3",
     "sourceUrl": "https://seaside.othello.org/renshukai/",
-    "retrievedDate": "2026-09-12"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "13",
@@ -51,7 +51,7 @@
     "eventName": "東京おもちゃまつり2026（オセロの日）",
     "venueName": "東京おもちゃ美術館",
     "sourceUrl": "https://ameblo.jp/sakaguchiothello/entry-12976593259.html",
-    "retrievedDate": "2026-09-12"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "13",
@@ -60,7 +60,7 @@
     "eventName": "立教大学ホームカミングデー「オセロが映し出す、人間とAIの未来」",
     "venueName": "立教大学 池袋キャンパス マキムホール3階 M302教室",
     "sourceUrl": "https://koyu.rikkyo.ac.jp/homecoming/event/otherprograms",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "13",
@@ -69,7 +69,7 @@
     "eventName": "親子で遊ぼ ボードゲーム（オセロなど）",
     "venueName": "府中市市民活動センター プラッツ 6階",
     "sourceUrl": "https://fuchu-planet.jp/organizations/296/activities/2002",
-    "retrievedDate": "2026-10-03"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "15",
@@ -78,7 +78,7 @@
     "eventName": "長岡高専 学園祭（リバーシ等のプログラミング作品体験）",
     "venueName": "長岡工業高等専門学校",
     "sourceUrl": "https://www.nagaoka-ct.ac.jp/ec/2026/news2026_03.shtml",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "15",
@@ -87,7 +87,34 @@
     "eventName": "長岡高専 学園祭（リバーシ等のプログラミング作品体験）",
     "venueName": "長岡工業高等専門学校",
     "sourceUrl": "https://www.nagaoka-ct.ac.jp/ec/2026/news2026_03.shtml",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
+  },
+  {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-11-11",
+    "eventName": "2026年11月 新潟オセロ練習会",
+    "venueName": "新潟市万代市民会館 4階409号室",
+    "sourceUrl": "https://www.othello.gr.jp/topics/70602",
+    "retrievedDate": "2026-10-08"
+  },
+  {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-11-29",
+    "eventName": "2026年11月 新潟オセロ練習会",
+    "venueName": "新潟市万代市民会館 4階403・404号室",
+    "sourceUrl": "https://www.othello.gr.jp/topics/70602",
+    "retrievedDate": "2026-10-08"
+  },
+  {
+    "prefectureCode": "23",
+    "prefectureName": "愛知県",
+    "date": "2026-11-22",
+    "eventName": "2026年11月 名古屋オセロクラブ練習会",
+    "venueName": "名古屋市中生涯学習センター 第3集会室",
+    "sourceUrl": "https://www.othello.gr.jp/topics/70205",
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "27",
@@ -96,16 +123,7 @@
     "eventName": "オセロをしよう",
     "venueName": "桂青少年会館",
     "sourceUrl": "https://atsumare-yaokko.jp/news/32529/",
-    "retrievedDate": "2026-09-14"
-  },
-  {
-    "prefectureCode": "33",
-    "prefectureName": "岡山県",
-    "date": "2026-10-04",
-    "eventName": "人権映画会「小さなバイキング ビッケ」（巨大オセロ遊び）",
-    "venueName": "真庭市立中央図書館",
-    "sourceUrl": "https://www.city.maniwa.lg.jp/soshiki/53/122036.html",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "33",
@@ -114,25 +132,16 @@
     "eventName": "THROW THE SPARK 2026 岡山決勝（リバーシ大会）",
     "venueName": "能楽堂ホール",
     "sourceUrl": "https://throwthesaprk26.com/",
-    "retrievedDate": "2026-09-20"
-  },
-  {
-    "prefectureCode": "34",
-    "prefectureName": "広島県",
-    "date": "2026-10-10",
-    "eventName": "THROW THE SPARK 2026 福山予選（リバーシ）",
-    "venueName": "iti SETOUCHI",
-    "sourceUrl": "https://throwthesaprk26.com/",
-    "retrievedDate": "2026-09-20"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "34",
     "prefectureName": "広島県",
     "date": "2026-10-11",
-    "eventName": "THROW THE SPARK 2026 福山予選（リバーシ）",
+    "eventName": "THROW THE SPARK 2026 福山予選（リバーシ大会）",
     "venueName": "iti SETOUCHI",
     "sourceUrl": "https://throwthesaprk26.com/",
-    "retrievedDate": "2026-09-20"
+    "retrievedDate": "2026-10-08"
   },
   {
     "prefectureCode": "40",
@@ -141,6 +150,6 @@
     "eventName": "食レク健康教室（人間オセロ）",
     "venueName": "メイトム宗像",
     "sourceUrl": "https://www.city.munakata.lg.jp/kiji00310262/index.html",
-    "retrievedDate": "2026-09-19"
+    "retrievedDate": "2026-10-08"
   }
 ]
