@@ -45,6 +45,15 @@
     "retrievedDate": "2026-10-18"
   },
   {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
+    "date": "2026-11-14",
+    "eventName": "東伊興住区センター児童館 オセロ大会（小学生対象）",
+    "venueName": "東伊興住区センター 児童館",
+    "sourceUrl": "https://www.city.adachi.tokyo.jp/documents/16951/10-j-higasiikou.pdf",
+    "retrievedDate": "2026-10-21"
+  },
+  {
     "prefectureCode": "15",
     "prefectureName": "新潟県",
     "date": "2026-10-31",
@@ -63,112 +72,22 @@
     "retrievedDate": "2026-10-08"
   },
   {
-    "prefectureCode": "15",
-    "prefectureName": "新潟県",
-    "date": "2026-11-11",
-    "eventName": "2026年11月 新潟オセロ練習会",
-    "venueName": "新潟市万代市民会館 4階409号室",
-    "sourceUrl": "https://www.othello.gr.jp/topics/70602",
-    "retrievedDate": "2026-10-18"
-  },
-  {
-    "prefectureCode": "15",
-    "prefectureName": "新潟県",
-    "date": "2026-11-29",
-    "eventName": "2026年11月 新潟オセロ練習会",
-    "venueName": "新潟市万代市民会館 4階403・404号室",
-    "sourceUrl": "https://www.othello.gr.jp/topics/70602",
-    "retrievedDate": "2026-10-18"
-  },
-  {
-    "prefectureCode": "16",
-    "prefectureName": "富山県",
-    "date": "2026-10-31",
-    "eventName": "魚津オセロサークル",
-    "venueName": "魚津市大町コミュニティセンター",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "prefectureCode": "26",
+    "prefectureName": "京都府",
+    "date": "2026-11-21",
+    "eventName": "南図書館「大人も子どももよっといで！ボードゲーム大会」（オセロあり）",
+    "venueName": "京都市南図書館 幼児コーナー",
+    "sourceUrl": "https://www2.kyotocitylib.jp/%E5%8D%97%E5%9B%B3%E6%9B%B8%E9%A4%A8",
     "retrievedDate": "2026-10-21"
   },
   {
-    "prefectureCode": "16",
-    "prefectureName": "富山県",
-    "date": "2026-11-28",
-    "eventName": "魚津オセロサークル",
-    "venueName": "魚津市大町コミュニティセンター",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
-    "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "17",
-    "prefectureName": "石川県",
-    "date": "2026-10-25",
-    "eventName": "金沢オセロクラブ",
-    "venueName": "金沢学生のまち市民交流館",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
-    "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "17",
-    "prefectureName": "石川県",
-    "date": "2026-11-08",
-    "eventName": "金沢オセロクラブ",
-    "venueName": "金沢学生のまち市民交流館",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
-    "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "18",
-    "prefectureName": "福井県",
-    "date": "2026-10-25",
-    "eventName": "福井オセロサークル",
-    "venueName": "福井県社会福祉センター 3階 老人談話室",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
-    "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "18",
-    "prefectureName": "福井県",
-    "date": "2026-10-31",
-    "eventName": "福井オセロサークル",
-    "venueName": "福井県社会福祉センター 3階 老人談話室",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
-    "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "18",
-    "prefectureName": "福井県",
+    "prefectureCode": "27",
+    "prefectureName": "大阪府",
     "date": "2026-11-07",
-    "eventName": "福井オセロサークル",
-    "venueName": "福井県社会福祉センター 3階 老人談話室",
-    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "eventName": "平野区子ども・子育てプラザ オセロ大会（小学生対象）",
+    "venueName": "大阪市平野区 子ども・子育てプラザ",
+    "sourceUrl": "https://osaka-kosodate-plaza.jp/hirano/event/2026/09/004631/",
     "retrievedDate": "2026-10-21"
-  },
-  {
-    "prefectureCode": "22",
-    "prefectureName": "静岡県",
-    "date": "2026-10-31",
-    "eventName": "東海ブロック オセロ教室・練習会",
-    "venueName": "袋井南コミュニティセンター 中会議室",
-    "sourceUrl": "https://www.othello.gr.jp/topics/56573",
-    "retrievedDate": "2026-10-18"
-  },
-  {
-    "prefectureCode": "22",
-    "prefectureName": "静岡県",
-    "date": "2026-11-28",
-    "eventName": "東海ブロック オセロ教室・練習会",
-    "venueName": "袋井南コミュニティセンター 中会議室",
-    "sourceUrl": "https://www.othello.gr.jp/topics/56573",
-    "retrievedDate": "2026-10-18"
-  },
-  {
-    "prefectureCode": "23",
-    "prefectureName": "愛知県",
-    "date": "2026-11-22",
-    "eventName": "2026年11月 名古屋オセロクラブ練習会",
-    "venueName": "名古屋市中生涯学習センター 第3集会室",
-    "sourceUrl": "https://www.othello.gr.jp/topics/70205",
-    "retrievedDate": "2026-10-18"
   },
   {
     "prefectureCode": "33",
