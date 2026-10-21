@@ -38,15 +38,6 @@
   {
     "prefectureCode": "13",
     "prefectureName": "東京都",
-    "date": "2026-10-18",
-    "eventName": "立教大学ホームカミングデー「オセロが映し出す、人間とAIの未来」",
-    "venueName": "立教大学 池袋キャンパス マキムホール3階 M302教室",
-    "sourceUrl": "https://koyu.rikkyo.ac.jp/homecoming/event/otherprograms",
-    "retrievedDate": "2026-10-18"
-  },
-  {
-    "prefectureCode": "13",
-    "prefectureName": "東京都",
     "date": "2026-11-08",
     "eventName": "親子で遊ぼ ボードゲーム（オセロなど）",
     "venueName": "府中市市民活動センター プラッツ 6階",
@@ -88,6 +79,69 @@
     "venueName": "新潟市万代市民会館 4階403・404号室",
     "sourceUrl": "https://www.othello.gr.jp/topics/70602",
     "retrievedDate": "2026-10-18"
+  },
+  {
+    "prefectureCode": "16",
+    "prefectureName": "富山県",
+    "date": "2026-10-31",
+    "eventName": "魚津オセロサークル",
+    "venueName": "魚津市大町コミュニティセンター",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "16",
+    "prefectureName": "富山県",
+    "date": "2026-11-28",
+    "eventName": "魚津オセロサークル",
+    "venueName": "魚津市大町コミュニティセンター",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "17",
+    "prefectureName": "石川県",
+    "date": "2026-10-25",
+    "eventName": "金沢オセロクラブ",
+    "venueName": "金沢学生のまち市民交流館",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "17",
+    "prefectureName": "石川県",
+    "date": "2026-11-08",
+    "eventName": "金沢オセロクラブ",
+    "venueName": "金沢学生のまち市民交流館",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "18",
+    "prefectureName": "福井県",
+    "date": "2026-10-25",
+    "eventName": "福井オセロサークル",
+    "venueName": "福井県社会福祉センター 3階 老人談話室",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "18",
+    "prefectureName": "福井県",
+    "date": "2026-10-31",
+    "eventName": "福井オセロサークル",
+    "venueName": "福井県社会福祉センター 3階 老人談話室",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "18",
+    "prefectureName": "福井県",
+    "date": "2026-11-07",
+    "eventName": "福井オセロサークル",
+    "venueName": "福井県社会福祉センター 3階 老人談話室",
+    "sourceUrl": "https://hokuriku-othello.webtoy.org/",
+    "retrievedDate": "2026-10-21"
   },
   {
     "prefectureCode": "22",
