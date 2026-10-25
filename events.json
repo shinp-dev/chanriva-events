@@ -1,5 +1,32 @@
 [
   {
+    "prefectureCode": "02",
+    "prefectureName": "青森県",
+    "date": "2026-11-08",
+    "eventName": "第1回 将棋andオセロ大会（どなたでも・事前電話申込）",
+    "venueName": "やきとり居酒屋冬（弘前市）",
+    "sourceUrl": "https://ibentomitsuketa.com/syougi-osero-20261108/",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "05",
+    "prefectureName": "秋田県",
+    "date": "2026-11-07",
+    "eventName": "朝日が丘児童センター「ジャンボオセロ大会！」（要申込）",
+    "venueName": "朝日が丘児童センター",
+    "sourceUrl": "https://www.haguhagu-yokote.jp/event/131702",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "08",
+    "prefectureName": "茨城県",
+    "date": "2026-11-13",
+    "eventName": "吾妻東児童館「スポーツリバーシで対戦！」（小学生対象）",
+    "venueName": "つくば市吾妻東児童館 図工室",
+    "sourceUrl": "https://www.city.tsukuba.lg.jp/soshikikarasagasu/azumaazumajidokan/gyomuannai/1/29902.html",
+    "retrievedDate": "2026-10-25"
+  },
+  {
     "prefectureCode": "08",
     "prefectureName": "茨城県",
     "date": "2026-11-21",
@@ -38,6 +65,15 @@
   {
     "prefectureCode": "13",
     "prefectureName": "東京都",
+    "date": "2026-11-04",
+    "eventName": "等々力児童館 こども企画「オセロ大会」",
+    "venueName": "世田谷区立等々力児童館",
+    "sourceUrl": "https://www.city.setagaya.lg.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "13",
+    "prefectureName": "東京都",
     "date": "2026-11-08",
     "eventName": "親子で遊ぼ ボードゲーム（オセロなど）",
     "venueName": "府中市市民活動センター プラッツ 6階",
@@ -70,6 +106,24 @@
     "venueName": "長岡工業高等専門学校",
     "sourceUrl": "https://www.nagaoka-ct.ac.jp/ec/2026/news2026_03.shtml",
     "retrievedDate": "2026-10-08"
+  },
+  {
+    "prefectureCode": "15",
+    "prefectureName": "新潟県",
+    "date": "2026-11-14",
+    "eventName": "キッズ倶楽部「レクリエーションバイキング」（赤白青黄オセロ）",
+    "venueName": "西川多目的ホール（西川図書館内）",
+    "sourceUrl": "https://www.city.niigata.lg.jp/nishikan/kohoshi/kouhou/r08/nishikan_1018/nishikan_469_3.html",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "17",
+    "prefectureName": "石川県",
+    "date": "2026-11-12",
+    "eventName": "蝶屋児童館「一緒にあそぼう」（将棋・オセロ交流）",
+    "venueName": "白山市蝶屋児童館",
+    "sourceUrl": "https://www.city.hakusan.lg.jp/kosodate/1012911/1001910/1012034/1019635.html",
+    "retrievedDate": "2026-10-25"
   },
   {
     "prefectureCode": "26",
@@ -106,5 +160,14 @@
     "venueName": "メイトム宗像",
     "sourceUrl": "https://www.city.munakata.lg.jp/kiji00310262/index.html",
     "retrievedDate": "2026-10-18"
+  },
+  {
+    "prefectureCode": "43",
+    "prefectureName": "熊本県",
+    "date": "2026-12-13",
+    "eventName": "第15回火の国杯争奪九州障がい者オセロ大会（九州在住・障がいのある方の団体戦）",
+    "venueName": "熊本県社会福祉事業団 2階会議室（熊本市）",
+    "sourceUrl": "https://www.city.tamana.lg.jp/q/aview/315/37232.html",
+    "retrievedDate": "2026-10-25"
   }
 ]
