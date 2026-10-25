@@ -137,11 +137,38 @@
   {
     "prefectureCode": "27",
     "prefectureName": "大阪府",
+    "date": "2026-11-03",
+    "eventName": "第96回 松通公園あそびの広場（オセロ・将棋など）",
+    "venueName": "松通公園（大阪市西成区）",
+    "sourceUrl": "https://kaekko.exblog.jp/36696158/",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "27",
+    "prefectureName": "大阪府",
+    "date": "2026-11-06",
+    "eventName": "ゆうゆう茶論（囲碁・オセロなど）",
+    "venueName": "ゆうゆうプラザ（日下市民プラザ）",
+    "sourceUrl": "https://www.city.higashiosaka.lg.jp/0000045383.html",
+    "retrievedDate": "2026-10-25"
+  },
+  {
+    "prefectureCode": "27",
+    "prefectureName": "大阪府",
     "date": "2026-11-07",
     "eventName": "平野区子ども・子育てプラザ オセロ大会（小学生対象）",
     "venueName": "大阪市平野区 子ども・子育てプラザ",
     "sourceUrl": "https://osaka-kosodate-plaza.jp/hirano/event/2026/09/004631/",
     "retrievedDate": "2026-10-21"
+  },
+  {
+    "prefectureCode": "28",
+    "prefectureName": "兵庫県",
+    "date": "2026-11-03",
+    "eventName": "五色中央公民館まつり「こども文化祭」（将棋・オセロあそび）",
+    "venueName": "五色中央公民館",
+    "sourceUrl": "https://www.city.sumoto.lg.jp/site/kohosumoto/38824.html",
+    "retrievedDate": "2026-10-25"
   },
   {
     "prefectureCode": "33",
